@@ -1,2 +1,2 @@
 # Manageease-service
-Checkout Management Project by Tejas & Nauman
+Checkout Management Project by Tejas , Nauman and Kshitij
