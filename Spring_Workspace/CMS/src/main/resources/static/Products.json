@@ -1,0 +1,21 @@
+[
+  {"productId": 1, "productName": "Product 1", "cost": 25.99, "ratings": 4.5, "reviews": 120, "productInformation": "Lorem ipsum dolor sit amet."},
+  {"productId": 2, "productName": "Product 2", "cost": 19.99, "ratings": 3.8, "reviews": 80, "productInformation": "Sed do eiusmod tempor"},
+  {"productId": 3, "productName": "Product 3", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 4, "productName": "Product 4", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 5, "productName": "Product 5", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 6, "productName": "Product 6", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 7, "productName": "Product 7", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 8, "productName": "Product 8", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 9, "productName": "Product 9", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 10, "productName": "Product 10", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 11, "productName": "Product 11", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 12, "productName": "Product 12", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 13, "productName": "Product 13", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 14, "productName": "Product 14", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 15, "productName": "Product 15", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 16, "productName": "Product 16", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+  {"productId": 17, "productName": "Product 17", "cost": 15.49, "ratings": 4.2, "reviews": 90, "productInformation": "Consectetur adipiscing elit"},
+
+  {"productId": 50, "productName": "Product 50", "cost": 39.99, "ratings": 4.0, "reviews": 110, "productInformation": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}
+]
