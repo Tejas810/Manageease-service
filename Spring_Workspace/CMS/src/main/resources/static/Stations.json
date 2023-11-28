@@ -1,0 +1,8 @@
+[
+	{"id":1,"name":"Station A","location":"Location A","products":["Product1","Product2"]},
+	{"id":2,"name":"Station B","location":"Location B","products":["Product3","Product4"]},
+	{"id":3,"name":"Station C","location":"Location C","products":["Product1","Product3"]},
+	{"id":4,"name":"Station D","location":"Location D","products":["Product2","Product3"]},
+	{"id":5,"name":"Station E","location":"Location E","products":["Product1","Product4"]},
+	{"id":6,"name":"Station F","location":"Location F","products":["Product2","Product4"]}
+]
