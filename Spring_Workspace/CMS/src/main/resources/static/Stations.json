@@ -1,8 +1,8 @@
 [
-	{"id":1,"name":"Station A","location":"Location A","products":["Product1","Product2"]},
-	{"id":2,"name":"Station B","location":"Location B","products":["Product3","Product4"]},
-	{"id":3,"name":"Station C","location":"Location C","products":["Product1","Product3"]},
-	{"id":4,"name":"Station D","location":"Location D","products":["Product2","Product3"]},
-	{"id":5,"name":"Station E","location":"Location E","products":["Product1","Product4"]},
-	{"id":6,"name":"Station F","location":"Location F","products":["Product2","Product4"]}
+  {"id": 1, "name": "DMART Central", "location": "City Center A", "products": ["Fresh Produce", "Groceries", "Household Essentials"]},
+  {"id": 2, "name": "DMART Organic Oasis", "location": "Green Valley B", "products": ["Organic Fruits", "Organic Vegetables", "Healthy Snacks"]},
+  {"id": 3, "name": "DMART Suburban Plaza", "location": "Suburbia C", "products": ["Clothing", "Home Essentials", "Electronics"]},
+  {"id": 4, "name": "DMART Tech Park", "location": "Tech Park D", "products": ["Electronics", "Gadgets", "Office Supplies"]},
+  {"id": 5, "name": "DMART Home Haven", "location": "Residential Area E", "products": ["Home Decor", "Furniture", "Appliances"]},
+  {"id": 6, "name": "DMART Mega Mall", "location": "Mall Street F", "products": ["Fashion", "Accessories", "Footwear"]}
 ]
